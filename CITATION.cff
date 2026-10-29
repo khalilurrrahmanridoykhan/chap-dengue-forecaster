@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or deployment, please cite it as below."
+authors:
+  - family-names: "Rahman"
+    given-names: "Khalilur"
+    email: "khalilurrahmanridoykhan@gmail.com"
+title: "chap-dengue-forecaster: Climate-Informed Dengue Outbreak Forecasting Model for DHIS2 CHAP"
+version: 0.1.0
+date-released: 2026-10-29
+url: "https://github.com/khalilurrrahmanridoykhan/chap-dengue-forecaster"
+license: Apache-2.0
+keywords:
+  - dhis2
+  - chap
+  - climate-health
+  - epidemiology
+  - dengue
+  - forecasting
